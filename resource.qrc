@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>settingsIcon.png</file>
+        <file>RS.png</file>
+        <file>RS_usa.jpeg</file>
+    </qresource>
+</RCC>
